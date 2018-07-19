@@ -2,7 +2,7 @@
 
 This demo has been developed for Microsoft HoloLens exploring the functionality of image target with Vuforia. Image target is the spawning of a holographic model upon detection of an image, enabling users to experience mixed reality based on objects in the real world.
 
-![Screenshot](Assets/Screenshot/screenshot2.png?raw=true "Screenshot")
+![Screenshot]((https://raw.githubusercontent.com/zakipauzi/image-target-demo/master/Assets/Screenshot/screenshot2.png)
 
 
 ## Getting Started
