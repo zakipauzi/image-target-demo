@@ -2,7 +2,7 @@
 
 This demo has been developed for Microsoft HoloLens exploring the functionality of image target with Vuforia. Image target is the spawning of a holographic model upon detection of an image, enabling users to experience mixed reality based on objects in the real world.
 
-![Screenshot](Assets\Screenshot\screenshot2.png?raw=true "Screenshot")
+![Screenshot](\Assets\Screenshot\screenshot2.png?raw=true "Screenshot")
 
 
 ## Getting Started
@@ -15,15 +15,15 @@ This demo has been developed for Microsoft HoloLens exploring the functionality 
 
 ## Building the Project
 
-* Clone this repository into your local machine. This repository only contains "Assets" and "Project Settings"
-* Open Unity, and load files as new project
-* Open the Scene "Main"
-* Go to File > Build settings
-* Add Open Scenes into the Windows
-* Select Universal Windows Platform on the left and click "Switch Platform"
-* Ensure "Unity C# Projects" is ticked
-* Click on Build
-* In the root folder, create a folder called "App" and build the solution there
+- Clone this repository into your local machine.
+- Open Unity, and load files as new project
+- Open the Scene "Main"
+- Go to File > Build settings
+- Add Open Scenes into the Windows
+- Select Universal Windows Platform on the left and click "Switch Platform"
+- Ensure "Unity C# Projects" is ticked
+- Click on 'Build'
+- In the root folder, create a folder called "App" and build the solution there
 
 
 ## Deployment
