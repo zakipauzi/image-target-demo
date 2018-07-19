@@ -31,7 +31,7 @@ This demo has been developed for Microsoft HoloLens exploring the functionality 
 Deployment should be done from its solution file in App folder.
 
 * After the build, open the solution in the App folder in Visual Studio
-* Open the "hologram-101.sln in Visual Studio 2017
+* Open the "image-target-demo.sln in Visual Studio 2017
 * Select "Release" and "x86" from the top bar
 
 ### Using HoloLens Emulator
